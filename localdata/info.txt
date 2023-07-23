@@ -1,0 +1,251 @@
+------ PC Information ------
+System: Windows
+Release: 10
+Version: 10.0.17763
+Machine: AMD64
+Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+------ CPU Information ------
+CPU Model: Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz
+CPU Cores: 2
+Total Threads: 4
+CPU Usage (%): [100.0, 100.0, 100.0, 100.0]
+
+------ Memory Information ------
+Total Memory (GB): 7.92
+Available Memory (GB): 0.52
+Used Memory (GB): 7.39
+Memory Usage (%): 93.4
+
+------ Disk Information ------
+Mount Point: C:\
+File System Type: NTFS
+Total Size (GB): 232.83
+Used Size (GB): 175.9
+Free Size (GB): 56.93
+Disk Usage (%): 75.5
+
+Mount Point: G:\
+File System Type: FAT32
+Total Size (GB): 15.0
+Used Size (GB): 13.5
+Free Size (GB): 1.5
+Disk Usage (%): 90.0
+
+
+------ Network Information ------
+Interface: Ethernet
+Address Family: AF_LINK
+Address: 70-5A-0F-D6-CB-BB
+Netmask: None
+Address Family: AF_INET
+Address: 169.254.99.252
+Netmask: 255.255.0.0
+Address Family: AF_INET6
+Address: fe80::64b2:6ea8:f324:4fc6
+Netmask: None
+
+Interface: Ethernet 2
+Address Family: AF_LINK
+Address: 00-FF-F4-02-9B-3A
+Netmask: None
+Address Family: AF_INET
+Address: 169.254.91.253
+Netmask: 255.255.0.0
+Address Family: AF_INET6
+Address: fe80::ab31:565c:8cf6:acbc
+Netmask: None
+
+Interface: Подключение по локальной сети* 1
+Address Family: AF_LINK
+Address: 76-DF-BF-08-0E-0E
+Netmask: None
+Address Family: AF_INET
+Address: 169.254.197.138
+Netmask: 255.255.0.0
+Address Family: AF_INET6
+Address: fe80::db2b:d172:b9b7:fd86
+Netmask: None
+
+Interface: Подключение по локальной сети* 2
+Address Family: AF_LINK
+Address: 76-DF-BF-08-06-0E
+Netmask: None
+Address Family: AF_INET
+Address: 169.254.43.212
+Netmask: 255.255.0.0
+Address Family: AF_INET6
+Address: fe80::1c8e:8c8e:1be4:644b
+Netmask: None
+
+Interface: Беспроводная сеть
+Address Family: AF_LINK
+Address: 74-DF-BF-08-0E-0E
+Netmask: None
+Address Family: AF_INET
+Address: 192.168.10.183
+Netmask: 255.255.255.0
+Address Family: AF_INET6
+Address: fe80::937e:2619:e0cd:37cf
+Netmask: None
+
+Interface: Loopback Pseudo-Interface 1
+Address Family: AF_INET
+Address: 127.0.0.1
+Netmask: 255.0.0.0
+Address Family: AF_INET6
+Address: ::1
+Netmask: None
+
+
+------ Battery Information ------
+Battery Percentage: 99
+Power Plugged: True
+
+
+------ System Uptime ------
+System Uptime (hours): 7.31
+
+------ Running Processes ------
+PID: 0, Name: System Idle Process, Username: NT AUTHORITY\SYSTEM
+PID: 4, Name: System, Username: NT AUTHORITY\SYSTEM
+PID: 96, Name: Registry, Username: None
+PID: 324, Name: smss.exe, Username: None
+PID: 376, Name: dwm.exe, Username: None
+PID: 456, Name: csrss.exe, Username: None
+PID: 552, Name: wininit.exe, Username: None
+PID: 560, Name: csrss.exe, Username: None
+PID: 624, Name: services.exe, Username: None
+PID: 632, Name: lsass.exe, Username: None
+PID: 744, Name: crashpad_handler.exe, Username: HOME-PC\enoobis
+PID: 748, Name: svchost.exe, Username: None
+PID: 780, Name: svchost.exe, Username: None
+PID: 784, Name: fontdrvhost.exe, Username: None
+PID: 852, Name: svchost.exe, Username: None
+PID: 944, Name: winlogon.exe, Username: None
+PID: 996, Name: fontdrvhost.exe, Username: None
+PID: 1016, Name: python.exe, Username: HOME-PC\enoobis
+PID: 1052, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 1064, Name: svchost.exe, Username: None
+PID: 1092, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 1160, Name: svchost.exe, Username: None
+PID: 1168, Name: svchost.exe, Username: None
+PID: 1180, Name: svchost.exe, Username: None
+PID: 1248, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 1268, Name: svchost.exe, Username: None
+PID: 1392, Name: svchost.exe, Username: None
+PID: 1420, Name: igfxCUIService.exe, Username: None
+PID: 1472, Name: SynTPEnh.exe, Username: HOME-PC\enoobis
+PID: 1508, Name: dllhost.exe, Username: None
+PID: 1668, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 1700, Name: svchost.exe, Username: None
+PID: 1744, Name: svchost.exe, Username: None
+PID: 1752, Name: svchost.exe, Username: None
+PID: 1892, Name: audiodg.exe, Username: None
+PID: 1900, Name: svchost.exe, Username: None
+PID: 1912, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 1984, Name: crashpad_handler.exe, Username: HOME-PC\enoobis
+PID: 2024, Name: sihost.exe, Username: HOME-PC\enoobis
+PID: 2100, Name: spoolsv.exe, Username: None
+PID: 2180, Name: svchost.exe, Username: None
+PID: 2312, Name: svchost.exe, Username: None
+PID: 2320, Name: powershell.exe, Username: HOME-PC\enoobis
+PID: 2388, Name: Everything.exe, Username: None
+PID: 2396, Name: app_updater.exe, Username: None
+PID: 2404, Name: hasplms.exe, Username: None
+PID: 2412, Name: LocalService.exe, Username: None
+PID: 2428, Name: BtwRSupportService.exe, Username: None
+PID: 2444, Name: mDNSResponder.exe, Username: None
+PID: 2452, Name: SynTPEnhService.exe, Username: None
+PID: 2464, Name: OfficeClickToRun.exe, Username: None
+PID: 2492, Name: sqlwriter.exe, Username: None
+PID: 2512, Name: svchost.exe, Username: None
+PID: 2620, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 2664, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 2712, Name: svchost.exe, Username: None
+PID: 2836, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 3288, Name: hasplmv.exe, Username: None
+PID: 3344, Name: hasplmv.exe, Username: None
+PID: 3512, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 3736, Name: taskhostw.exe, Username: HOME-PC\enoobis
+PID: 3808, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 3928, Name: svchost.exe, Username: HOME-PC\enoobis
+PID: 4120, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 4224, Name: ctfmon.exe, Username: HOME-PC\enoobis
+PID: 4304, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 4392, Name: SynTPHelper.exe, Username: HOME-PC\enoobis
+PID: 4468, Name: explorer.exe, Username: HOME-PC\enoobis
+PID: 4568, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 4620, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 4748, Name: igfxHK.exe, Username: HOME-PC\enoobis
+PID: 4752, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 4776, Name: igfxTray.exe, Username: HOME-PC\enoobis
+PID: 4828, Name: svchost.exe, Username: HOME-PC\enoobis
+PID: 4916, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 4968, Name: MFResident.exe, Username: HOME-PC\enoobis
+PID: 4972, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 5108, Name: ShellExperienceHost.exe, Username: HOME-PC\enoobis
+PID: 5128, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 5252, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 5296, Name: Everything.exe, Username: HOME-PC\enoobis
+PID: 5348, Name: RuntimeBroker.exe, Username: HOME-PC\enoobis
+PID: 5524, Name: GoogleCrashHandler.exe, Username: None
+PID: 5560, Name: GoogleUpdate.exe, Username: None
+PID: 5588, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 5616, Name: taskhostw.exe, Username: HOME-PC\enoobis
+PID: 5660, Name: figma_agent.exe, Username: HOME-PC\enoobis
+PID: 5736, Name: Flow.Launcher.exe, Username: HOME-PC\enoobis
+PID: 5908, Name: Spotify.exe, Username: HOME-PC\enoobis
+PID: 5920, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 6208, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 6228, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 6232, Name: py.exe, Username: HOME-PC\enoobis
+PID: 6244, Name: ApplicationFrameHost.exe, Username: HOME-PC\enoobis
+PID: 6328, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 6384, Name: LockApp.exe, Username: HOME-PC\enoobis
+PID: 6464, Name: explorer.exe, Username: HOME-PC\enoobis
+PID: 6472, Name: flux.exe, Username: HOME-PC\enoobis
+PID: 6500, Name: RuntimeBroker.exe, Username: HOME-PC\enoobis
+PID: 6552, Name: TabNine.exe, Username: HOME-PC\enoobis
+PID: 6564, Name: WmiPrvSE.exe, Username: None
+PID: 6628, Name: Discord.exe, Username: HOME-PC\enoobis
+PID: 6652, Name: svchost.exe, Username: None
+PID: 6732, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 6812, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 6856, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 6888, Name: crashpad_handler.exe, Username: HOME-PC\enoobis
+PID: 6932, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 6976, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 7096, Name: GoogleDriveFS.exe, Username: HOME-PC\enoobis
+PID: 7144, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 7240, Name: RuntimeBroker.exe, Username: HOME-PC\enoobis
+PID: 7724, Name: TabNine-deep-local.exe, Username: HOME-PC\enoobis
+PID: 7924, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 8008, Name: winpty-agent.exe, Username: HOME-PC\enoobis
+PID: 8032, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 8112, Name: WD-TabNine.exe, Username: HOME-PC\enoobis
+PID: 8144, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 8240, Name: taskhostw.exe, Username: HOME-PC\enoobis
+PID: 8340, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 8412, Name: svchost.exe, Username: None
+PID: 8424, Name: DeskPins.exe, Username: HOME-PC\enoobis
+PID: 8472, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 8484, Name: Lightshot.exe, Username: HOME-PC\enoobis
+PID: 8564, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 8600, Name: QuickLook.exe, Username: HOME-PC\enoobis
+PID: 8792, Name: QuickLook.WoW64HookHelper.exe, Username: HOME-PC\enoobis
+PID: 8812, Name: Discord.exe, Username: HOME-PC\enoobis
+PID: 8816, Name: GoogleCrashHandler64.exe, Username: None
+PID: 8820, Name: Code.exe, Username: HOME-PC\enoobis
+PID: 9000, Name: MicrosoftHost.exe, Username: HOME-PC\enoobis
+PID: 9008, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 9172, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 9388, Name: acrotray.exe, Username: HOME-PC\enoobis
+PID: 9444, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 9516, Name: WmiPrvSE.exe, Username: None
+PID: 10080, Name: crashpad_handler.exe, Username: HOME-PC\enoobis
+PID: 10272, Name: msedge.exe, Username: HOME-PC\enoobis
+PID: 10332, Name: svchost.exe, Username: None
+PID: 10572, Name: TabNine.exe, Username: HOME-PC\enoobis
+PID: 10612, Name: conhost.exe, Username: HOME-PC\enoobis
+PID: 10872, Name: msedge.exe, Username: HOME-PC\enoobis

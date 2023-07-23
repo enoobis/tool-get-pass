@@ -1,0 +1,9 @@
+[Settings]
+ApplicationToStart = AUTO_RUN.EXE
+
+[Data]
+FS = 1193102
+HV = C9EEDF480DD190B0822B8F58E35EA0D9
+DA = 2023-07-22
+TI = 00:26
+

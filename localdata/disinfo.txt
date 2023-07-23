@@ -1,0 +1,11 @@
+------ Display Information ------
+Primary Monitor Resolution: 1920x1080
+Available Monitors:
+ - \\.\DISPLAY1
+
+Monitor Configurations:
+Monitor: \\.\DISPLAY1
+Position (x, y): (0, 0)
+Size (width, height): (1920, 1080)
+Is Primary: True
+
